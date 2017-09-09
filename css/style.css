@@ -1,0 +1,101 @@
+/*custom stylesheet*/
+
+#userForm {
+  padding-top: 40px;
+  padding-left: 40px;
+  position: absolute;
+  top: 70px;
+  left: 580px;
+  background-color: #FF5C62;
+  height: 200px;
+  width: 380px;
+  border-radius: 5px;
+  margin-top: 20px;
+}
+
+
+#username {
+  width: 280px;
+  height: 40px;
+}
+
+#submit {
+  display: block;
+  margin-top: 10px;
+  width: 280px;
+  height: 50px;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+#userName {
+  position: absolute;
+  top: 700px;
+  left: 300px;
+  font-size: 29px;
+}
+
+#divName {
+  position: absolute;
+  top: 745px;
+  left: 300px;
+  font-size: 20px;
+  color: #FF5C62;
+}
+
+#userRepositories {
+  position: absolute;
+  top: 790px;
+  left: 300px;
+  font-size: 29px;
+}
+
+#divRepo{
+  position: absolute;
+  top: 835px;
+  left: 300px;
+  font-size: 20px;
+  color: #FF5C62; 
+}
+
+#userRepositoriesN {
+  position: absolute;
+  top: 395px;
+  left: 680px;
+  font-size: 29px;
+}
+
+#divRepoName {
+  position: absolute;
+  top: 450px;
+  left: 680px;
+  font-size: 20px;
+  color: #FF5C62; 
+}
+
+#linksName {
+  position: absolute;
+  top: 395px;
+  left: 1180px;
+  font-size: 29px;
+}
+
+#repoLinks {
+  position: absolute;
+  top: 450px;
+  left: 1180px;
+  font-size: 20px;
+  color: #FF5C62;
+}
+
+#display {
+  display: none;
+}
+
+#displayImage {
+  position: absolute;
+  height: 400px;
+  width: 300px;
+  top: 400px;
+  left: 300px;
+}
